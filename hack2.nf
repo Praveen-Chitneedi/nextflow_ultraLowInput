@@ -120,7 +120,7 @@ process index {
 
     """
 
-    else if( params.aligner == 'kalisto' )
+    else if( params.aligner == 'kallisto' )
 
     """
 
